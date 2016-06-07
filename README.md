@@ -1,2 +1,2 @@
 # hello-world
-testing
+i am an architect / designer / maker / technologist based in Lagos, Nigeria.
